@@ -25,9 +25,7 @@ form input {
   border-radius: 6px;
   height: 41px;
   padding-inline: 1.2rem;
-
   width: 100%;
-
   color: white;
   text-transform: uppercase;
 }
@@ -42,24 +40,18 @@ form .flex .input-wrapper {
 
 form button {
   margin-top: 1.6rem;
-
   display: flex;
   justify-content: center;
   align-items: center;
   padding: 1.6rem 0;
-
-  background: #42d3ff;
+  background: #d058ad;
   border-radius: 0.6rem;
-
   cursor: pointer;
-
   border: none;
-
   font-weight: 700;
   font-size: 1.4rem;
   line-height: 1.7rem;
-  color: #121212;
-
+  color: #FFF;
   transition: filter 0.3s;
 }
 
